@@ -37,12 +37,33 @@
         * DateInterval
         * DatePeriod
     * Standard PHP Library
+* Протоколы
+   * IP
+   * TCP/UDP
+   * HTTP
+   * SSL/TLS
+   * DNS
+* Сервер Apache/Nginx
+   * Установка
+   * Document Root
+   * URI запроса
+   * Виртуальные хосты
+   * rewrite module
+   * "Раздача статики"
+   * Сжатие
+   * Настройка SSL сертификатов
+   * FastCGI модуль
+   * Комбинация apache + nginx
+   * Только nginx
 * БД
     * Нормальные формы
     * Уметь спроектировать простую структуру
     * SQL
         * DDL
         * DML
+           * Простые запросы
+           * Последовательность выполнения SELECT
+        * EXPLAIN
     * MySQL
         * Установка/настройка
         * Импорт/экспорт базы
@@ -79,10 +100,24 @@
     * Перенос сайта с одного сервера на другой
     * Настройка SMTP
     * SSL/Let’s Encrypt
+* Troubleshooting
+   * ping
+   * traceroute
+   * dig/nslookup
+   * curl
+   * tcpdump
+   * strace
 * PSR
 * Xdebug
 * Composer
 * PHPStorm
+   * Hot keys
+   * Tips and Tricks
 * Фреймворк Laravel
+   * Роутинг
+   * Request/Response (PSR-7)
+   * Validation
+   * DI/DI Container
+   * Middleware
 
 
