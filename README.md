@@ -43,6 +43,8 @@
    * HTTP
    * SSL/TLS
    * DNS
+   * VPN
+   * Proxy
 * Сервер Apache/Nginx
    * Установка
    * Document Root
