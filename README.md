@@ -123,5 +123,7 @@
    * Validation
    * DI/DI Container
    * Middleware
+   * Миграции
+   * Active Record
 
 
