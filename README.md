@@ -163,7 +163,7 @@
    * DI/DI Container
    * Middleware
    * Миграции
-   * Active Record
+   * Eloquent ORM (Active Record pattern)
 * Управление проектами
    * Канбан
    * Scrum
