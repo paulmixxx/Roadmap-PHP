@@ -161,9 +161,13 @@
    * Request/Response (PSR-7)
    * Validation
    * DI/DI Container
+   * Провайдеры
    * Middleware
    * Миграции
-   * Eloquent ORM (Active Record pattern)
+   * Модели Eloquent ORM
+   * View/Templates
+   * Events
+   * Console
 * Управление проектами
    * Канбан
    * Scrum
