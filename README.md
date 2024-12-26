@@ -125,13 +125,12 @@
     * Разделение приложения на файлы
     * Front Controller и Router
     * MVC
-    * ADR
 * Паттерны
     * Банда четырех
     * DRY
     * KISS
     * SOLID
-* git
+* Git
 * Github/Gitlab/Bitbucket
 * Навыки
     * Настроить SSH доступ по ключам
